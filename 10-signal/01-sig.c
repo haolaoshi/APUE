@@ -2,7 +2,17 @@
 #include <signal.h>
 
 static void sig_usr(int);
+/*
 
+./a.out &
+
+kill -USR1 xxx
+kill -USR2 xx
+
+kill xxx
+
+
+*/
 
 int main()
 {
