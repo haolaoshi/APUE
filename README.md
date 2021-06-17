@@ -15,9 +15,12 @@ on ubuntu desk;
 ## 09-process relation
 ## 10-signal
 ## 11-thread
--heapsort need insall libbsd-dev 
--gcc -lbsd -pthread 
--show CPU's scpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+* heapsort need install libbsd-dev 
+* gcc -lbsd -pthread
+* show CPUS's
+scpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+
+~~ 2021-06-18 00:44 ~~
 
 ## 12-thread control
 ## 13-thread dog
