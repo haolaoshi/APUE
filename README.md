@@ -24,6 +24,10 @@ scpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 
 ## 12-thread control
 ## 13-thread dog
+* daemon thread is hard to me. [Mark]
+* maybe is worth reread when finish this book,
+~~2021-06-20 01:49~~
+
 ## 14-advance io
 ## 15-rpc
 ## 16-socket
