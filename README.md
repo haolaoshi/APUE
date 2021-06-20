@@ -28,7 +28,16 @@ scpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 * maybe is worth reread when finish this book,
 ~~2021-06-20 01:49~~
 
-## 14-advance io
+## 14-advanceo IO
+1. Non-Blocked IO
+2. record locking
+3. IO multiplexing
+4. Ansyn IO 
+
+``  too many functions.
+
+``
+
 ## 15-rpc
 ## 16-socket
 ## 17-advance rpc
