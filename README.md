@@ -39,6 +39,9 @@ scpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 ``
 
 ## 15-rpc
+* HARD level !!!
+~~~stuck!
+
 ## 16-socket
 ## 17-advance rpc
 ## 18-terminal io

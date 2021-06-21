@@ -1,6 +1,7 @@
 #include "00-apue.h"
 #include <fcntl.h>
 #define FILE_MODE DEFFILEMODE
+#include "14-TELL.c"
 
 int lock_reg(int fd,int cmd,int type,off_t offset,int whence,off_t len)
 {
